@@ -5,7 +5,7 @@ public class Main {
         System.out.println("New line!");
         System.out.println("Slow line!");
     }
-    public static void main(String[] args) {
+    public static void newmet(String[]) {
         System.out.println("new met");
     }
 }
