@@ -6,6 +6,6 @@ public class Main {
         System.out.println("Slow line!");
     }
     public static void newmet() {
-        System.out.println("new met");
+        System.out.println("NEW MET");
     }
 }
